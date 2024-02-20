@@ -1,0 +1,21 @@
+ENTER USERNAME AND EMAIL
+//create a repository folder and open it in git bash
+Command : git config --global user.name "Abdullah Tareen"
+Command : git config --global user.email "tareenabdullah989@gmail.com"
+
+
+CHECK USERNAME AND EMAIL
+Command : git config --global user.name
+Command : git config --global user.email
+
+-------------------------------------------------------------------------
+
+PUSH AND SAVE CHANGES INTO GITHUB
+
+Command : 
+git add . 
+git commit -m "(any message)1st commit"
+git push origin main
+
+
+-------------------------------------------------------------------------
